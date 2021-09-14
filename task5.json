@@ -1,0 +1,2986 @@
+[
+    {
+        "movie_name": "Toy Story 4",
+        "url": "https://www.rottentomatoes.com/m/toy_story_4",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Comedy,",
+            "Adventure,",
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " JoshCooley"
+        ],
+        "Producer": [
+            "Mark",
+            "Nielsen,",
+            "Jonas",
+            "Rivera,",
+            "Galyn",
+            "Susman"
+        ],
+        "Runtime": 100
+    },
+    {
+        "movie_name": "Spider-Man: Into the Spider-Verse",
+        "url": "https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse",
+        "Rating": [
+            "PG",
+            "(Mild",
+            "Language|Frenetic",
+            "Action",
+            "Violence|Thematic",
+            "Elements)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Fantasy,",
+            "Comedy,",
+            "Action"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " BobPersichetti",
+            "PeterRamsey",
+            "RodneyRothman"
+        ],
+        "Producer": [
+            "Avi",
+            "Arad,",
+            "Amy",
+            "Pascal,",
+            "Phil",
+            "Lord,",
+            "Chris",
+            "Miller,",
+            "Christina",
+            "Steinberg"
+        ],
+        "Runtime": 117
+    },
+    {
+        "movie_name": "Inside Out",
+        "url": "https://www.rottentomatoes.com/m/inside_out_2015",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Action|Mild",
+            "Thematic",
+            "Elements)"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " PeteDocter"
+        ],
+        "Producer": [
+            "Jonas",
+            "Rivera"
+        ],
+        "Runtime": 95
+    },
+    {
+        "movie_name": "Coco",
+        "url": "https://www.rottentomatoes.com/m/coco_2017",
+        "Rating": [
+            "PG",
+            "(Thematic",
+            "Elements)"
+        ],
+        "Genre": [
+            "Comedy,",
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Music"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " LeeUnkrich"
+        ],
+        "Producer": [
+            "Darla",
+            "K.",
+            "Anderson"
+        ],
+        "Runtime": 109
+    },
+    {
+        "movie_name": "Snow White and the Seven Dwarfs",
+        "url": "https://www.rottentomatoes.com/m/1048445-snow_white_and_the_seven_dwarfs",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " DavidHand"
+        ],
+        "Producer": [
+            "Walt",
+            "Disney"
+        ],
+        "Runtime": 80
+    },
+    {
+        "movie_name": "Incredibles 2",
+        "url": "https://www.rottentomatoes.com/m/incredibles_2",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Brief",
+            "Mild",
+            "Language|Action",
+            "Sequences)"
+        ],
+        "Genre": [
+            "Action,",
+            "Adventure,",
+            "Comedy,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " BradBird"
+        ],
+        "Producer": [
+            "John",
+            "Walker,",
+            "Nicole",
+            "Paradis",
+            "Grindle"
+        ],
+        "Runtime": 118
+    },
+    {
+        "movie_name": "Zootopia",
+        "url": "https://www.rottentomatoes.com/m/zootopia",
+        "Rating": [
+            "PG",
+            "(Rude",
+            "Humor|Action|Some",
+            "Thematic",
+            "Elements)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " ByronHoward",
+            "RichMoore"
+        ],
+        "Producer": [
+            "Clark",
+            "Spencer"
+        ],
+        "Runtime": 108
+    },
+    {
+        "movie_name": "Paddington 2",
+        "url": "https://www.rottentomatoes.com/m/paddington_2",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Action|Mild",
+            "Rude",
+            "Humor)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy"
+        ],
+        "Language": [
+            "Kingdom)"
+        ],
+        "Director": [
+            " PaulKing"
+        ],
+        "Producer": [
+            "David",
+            "Heyman"
+        ],
+        "Runtime": 103
+    },
+    {
+        "movie_name": "Up",
+        "url": "https://www.rottentomatoes.com/m/up",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Peril|Action)"
+        ],
+        "Genre": [
+            "Comedy,",
+            "Kids",
+            "&","family,",
+            "family,",
+            "Animation,",
+            "Adventure"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " PeteDocter",
+            "BobPeterson"
+        ],
+        "Producer": [
+            "Jonas",
+            "Rivera"
+        ],
+        "Runtime": 89
+    },
+    {
+        "movie_name": "Toy Story 3",
+        "url": "https://www.rottentomatoes.com/m/toy_story_3",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Fantasy,",
+            "Comedy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " LeeUnkrich"
+        ],
+        "Producer": [
+            "Darla",
+            "K.",
+            "Anderson"
+        ],
+        "Runtime": 102
+    },
+    {
+        "movie_name": "Toy Story 2",
+        "url": "https://www.rottentomatoes.com/m/toy_story_2",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Fantasy,",
+            "Comedy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " AshBrannon",
+            "JohnLasseter",
+            "LeeUnkrich"
+        ],
+        "Producer": [
+            "Karen",
+            "Robert",
+            "Jackson,",
+            "Helene",
+            "Plotkin"
+        ],
+        "Runtime": 92
+    },
+    {
+        "movie_name": "Finding Dory",
+        "url": "https://www.rottentomatoes.com/m/finding_dory",
+        "Rating": [
+            "PG",
+            "(Mild",
+            "Thematic",
+            "Elements)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " AndrewStanton"
+        ],
+        "Producer": [
+            "Lindsey",
+            "Collins"
+        ],
+        "Runtime": 103
+    },
+    {
+        "movie_name": "Pinocchio",
+        "url": "https://www.rottentomatoes.com/m/pinocchio_1940",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " BenSharpsteen",
+            "HamiltonLuske"
+        ],
+        "Producer": [
+            "Walt",
+            "Disney"
+        ],
+        "Runtime": 87
+    },
+    {
+        "movie_name": "Finding Nemo",
+        "url": "https://www.rottentomatoes.com/m/finding_nemo",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " AndrewStanton"
+        ],
+        "Producer": [
+            "Graham",
+            "Walters"
+        ],
+        "Runtime": 100
+    },
+    {
+        "movie_name": "The LEGO Movie",
+        "url": "https://www.rottentomatoes.com/m/the_lego_movie",
+        "Rating": [
+            "PG",
+            "(Rude",
+            "Humor|Mild",
+            "Action)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " PhilLord",
+            "ChrisMiller"
+        ],
+        "Producer": [
+            "Dan",
+            "Lin,",
+            "Roy",
+            "Lee"
+        ],
+        "Runtime": 95
+    },
+    {
+        "movie_name": "Moana",
+        "url": "https://www.rottentomatoes.com/m/moana_2016",
+        "Rating": [
+            "PG",
+            "(Peril|Brief",
+            "Thematic",
+            "Elements|Some",
+            "Scary",
+            "Images)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Musical,",
+            "Comedy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " JohnMusker",
+            "RonClements"
+        ],
+        "Producer": [
+            "Osnat",
+            "Shurer"
+        ],
+        "Runtime": 113
+    },
+    {
+        "movie_name": "Isle of Dogs",
+        "url": "https://www.rottentomatoes.com/m/isle_of_dogs_2018",
+        "Rating": [
+            "PG-13",
+            "(Thematic",
+            "Elements|Some",
+            "Violent",
+            "Images)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " WesAnderson"
+        ],
+        "Producer": [
+            "Wes",
+            "Anderson,",
+            "Scott",
+            "Rudin,",
+            "Steven",
+            "Rales,",
+            "Jeremy",
+            "Dawson"
+        ],
+        "Runtime": 101
+    },
+    {
+        "movie_name": "Toy Story",
+        "url": "https://www.rottentomatoes.com/m/toy_story",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Fantasy,",
+            "Comedy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " JohnLasseter"
+        ],
+        "Producer": [
+            "Ralph",
+            "Guggenheim,",
+            "Bonnie",
+            "Arnold"
+        ],
+        "Runtime": 80
+    },
+    {
+        "movie_name": "Kubo and the Two Strings",
+        "url": "https://www.rottentomatoes.com/m/kubo_and_the_two_strings_2016",
+        "Rating": [
+            "PG",
+            "(Scary",
+            "Images|Action",
+            "and",
+            "Peril|Thematic",
+            "Elements)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Fantasy,",
+            "Action"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " TravisKnight"
+        ],
+        "Producer": [
+            "Arianne",
+            "Sutner,",
+            "Travis",
+            "Knight"
+        ],
+        "Runtime": 102
+    },
+    {
+        "movie_name": "How to Train Your Dragon",
+        "url": "https://www.rottentomatoes.com/m/how_to_train_your_dragon",
+        "Rating": [
+            "PG",
+            "(Sequences",
+            "of",
+            "Intense",
+            "Action|Brief",
+            "Mild",
+            "Language|Some",
+            "Scary",
+            "Images)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Fantasy,",
+            "Comedy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " ChristopherSanders",
+            "DeanDeBlois"
+        ],
+        "Producer": [
+            "Bonnie",
+            "Arnold"
+        ],
+        "Runtime": 98
+    },
+    {
+        "movie_name": "Shaun the Sheep Movie",
+        "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_movie",
+        "Rating": [
+            "PG",
+            "(Rude",
+            "Humor)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " MarkBurton",
+            "RichardStarzak"
+        ],
+        "Producer": [
+            "Julie",
+            "Lockhart,",
+            "Paul",
+            "Kewley"
+        ],
+        "Runtime": 85
+    },
+    {
+        "movie_name": "WALL-E",
+        "url": "https://www.rottentomatoes.com/m/wall_e",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Comedy,",
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Sci-fi"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " AndrewStanton"
+        ],
+        "Producer": [
+            "Jim",
+            "Morris"
+        ],
+        "Runtime": 97
+    },
+    {
+        "movie_name": "Dumbo",
+        "url": "https://www.rottentomatoes.com/m/dumbo",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " BenSharpsteen"
+        ],
+        "Producer": [
+            "Walt",
+            "Disney"
+        ],
+        "Runtime": 64
+    },
+    {
+        "movie_name": "Ratatouille",
+        "url": "https://www.rottentomatoes.com/m/ratatouille",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " BradBird"
+        ],
+        "Producer": [
+            "Brad",
+            "Lewis"
+        ],
+        "Runtime": 111
+    },
+    {
+        "movie_name": "My Life as a Zucchini",
+        "url": "https://www.rottentomatoes.com/m/my_life_as_a_zucchini",
+        "Rating": [
+            "PG-13",
+            "(Thematic",
+            "Elements|Suggestive",
+            "Material)"
+        ],
+        "Genre": [
+            "Comedy,",
+            "Animation,",
+            "Drama"
+        ],
+        "Language": [
+            "(France)"
+        ],
+        "Director": [
+            " ClaudeBarras"
+        ],
+        "Producer": [
+            "Marc",
+            "Bonny,",
+            "Armelle",
+            "Glorennec,",
+            "Pauline",
+            "Gygax,",
+            "Max",
+            "Karli"
+        ],
+        "Runtime": 66
+    },
+    {
+        "movie_name": "The Incredibles",
+        "url": "https://www.rottentomatoes.com/m/incredibles",
+        "Rating": [
+            "PG",
+            "(Action/Violence)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " BradBird"
+        ],
+        "Producer": [
+            "John",
+            "Lasseter,",
+            "John",
+            "Walker"
+        ],
+        "Runtime": 115
+    },
+    {
+        "movie_name": "Only Yesterday",
+        "url": "https://www.rottentomatoes.com/m/only_yesterday_1991",
+        "Genre": [
+            "Anime,",
+            "Drama"
+        ],
+        "Language": [
+            "Japanese"
+        ],
+        "Director": [
+            " IsaoTakahata"
+        ],
+        "Producer": [
+            "Yasuyoshi",
+            "Tokuma"
+        ],
+        "Runtime": 118
+    },
+    {
+        "movie_name": "One Hundred and One Dalmatians",
+        "url": "https://www.rottentomatoes.com/m/101_dalmatians",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Comedy,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Adventure"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " WolfgangReitherman",
+            "HamiltonLuske",
+            "ClydeGeronimi"
+        ],
+        "Producer": [
+            "Walt",
+            "Disney"
+        ],
+        "Runtime": 79
+    },
+    {
+        "movie_name": "The LEGO Batman Movie",
+        "url": "https://www.rottentomatoes.com/m/the_lego_batman_movie",
+        "Rating": [
+            "PG",
+            "(Rude",
+            "Humor",
+            "and",
+            "Some",
+            "Action)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Comedy,",
+            "Action"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " ChrisMcKay"
+        ],
+        "Producer": [
+            "Dan",
+            "Lin,",
+            "Phil",
+            "Lord,",
+            "Chris",
+            "Miller,",
+            "Roy",
+            "Lee"
+        ],
+        "Runtime": 106
+    },
+    {
+        "movie_name": "Chicken Run",
+        "url": "https://www.rottentomatoes.com/m/chicken_run",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Adventure,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " PeterLord",
+            "NickPark"
+        ],
+        "Producer": [
+            "Peter",
+            "Lord,",
+            "Nick",
+            "Park,",
+            "David",
+            "Sproxton"
+        ],
+        "Runtime": 85
+    },
+    {
+        "movie_name": "Beauty and the Beast",
+        "url": "https://www.rottentomatoes.com/m/beauty_and_the_beast_1991",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " GaryTrousdale",
+            "KirkWise"
+        ],
+        "Producer": [
+            "Don",
+            "Hahn"
+        ],
+        "Runtime": 84
+    },
+    {
+        "movie_name": "Anomalisa",
+        "url": "https://www.rottentomatoes.com/m/anomalisa",
+        "Rating": [
+            "R",
+            "(Language|Graphic",
+            "Nudity|Strong",
+            "Sexual",
+            "Content)"
+        ],
+        "Genre": [
+            "Comedy,",
+            "Animation,",
+            "Drama"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " CharlieKaufman",
+            "DukeJohnson"
+        ],
+        "Producer": [
+            "Rosa",
+            "Tran,",
+            "Duke",
+            "Johnson,",
+            "Charlie",
+            "Kaufman,",
+            "Dino",
+            "Stamatopoulos"
+        ],
+        "Runtime": 90
+    },
+    {
+        "movie_name": "The Nightmare Before Christmas",
+        "url": "https://www.rottentomatoes.com/m/nightmare_before_christmas",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Scary",
+            "Images)"
+        ],
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Fantasy,",
+            "Comedy,",
+            "Other"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " HenrySelick"
+        ],
+        "Producer": [
+            "Tim",
+            "Burton,",
+            "Denise",
+            "Di",
+            "Novi,",
+            "Kathleen",
+            "Gavin"
+        ],
+        "Runtime": 75
+    },
+    {
+        "movie_name": "Monsters, Inc.",
+        "url": "https://www.rottentomatoes.com/m/monsters_inc",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Fantasy,",
+            "Comedy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " PeteDocter"
+        ],
+        "Producer": [
+            "Darla",
+            "K.",
+            "Anderson"
+        ],
+        "Runtime": 92
+    },
+    {
+        "movie_name": "Onward",
+        "url": "https://www.rottentomatoes.com/m/onward",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Mild",
+            "Thematic",
+            "Elements|Action/Peril)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Fantasy,",
+            "Comedy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " DanScanlon"
+        ],
+        "Producer": [
+            "Kori",
+            "Rae"
+        ],
+        "Runtime": 103
+    },
+    {
+        "movie_name": "Grave of the Fireflies",
+        "url": "https://www.rottentomatoes.com/m/grave_of_the_fireflies",
+        "Genre": [
+            "Anime,",
+            "War,",
+            "Drama"
+        ],
+        "Language": [
+            "Japanese"
+        ],
+        "Director": [
+            " IsaoTakahata"
+        ],
+        "Producer": [
+            "Toru",
+            "Hara"
+        ],
+        "Runtime": 88
+    },
+    {
+        "movie_name": "Spirited Away",
+        "url": "https://www.rottentomatoes.com/m/spirited_away",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Scary",
+            "Moments)"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Adventure,",
+            "Animation"
+        ],
+        "Language": [
+            "Japanese"
+        ],
+        "Director": [
+            " HayaoMiyazaki",
+            "KirkWise"
+        ],
+        "Producer": [
+            "Donald",
+            "W.",
+            "Ernst,",
+            "Toshio",
+            "Suzuki"
+        ],
+        "Runtime": 125
+    },
+    {
+        "movie_name": "Your Name",
+        "url": "https://www.rottentomatoes.com/m/your_name_2017",
+        "Rating": [
+            "PG",
+            "(Smoking|Brief",
+            "Language|Suggestive",
+            "Content|Thematic",
+            "Elements)"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Anime,",
+            "Romance"
+        ],
+        "Language": [
+            "Japanese"
+        ],
+        "Director": [
+            " MakotoShinkai"
+        ],
+        "Producer": [
+            "Noritaka",
+            "Kawaguchi,",
+            "Genki",
+            "Kawamura"
+        ],
+        "Runtime": 106
+    },
+    {
+        "movie_name": "Song of the Sea",
+        "url": "https://www.rottentomatoes.com/m/song_of_the_sea_2014",
+        "Rating": [
+            "PG",
+            "(Pipe",
+            "Smoking",
+            "Images|Language|Some",
+            "Mild",
+            "Peril)"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Adventure,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " TommMoore"
+        ],
+        "Producer": [
+            "Tomm",
+            "Moore,",
+            "Ross",
+            "Murray,",
+            "Paul",
+            "Young,",
+            "St\u00e9phan",
+            "Roelants,",
+            "Serge",
+            "Ume,",
+            "Isabelle",
+            "Truc,",
+            "Cl\u00e9ment",
+            "Calvet,",
+            "Jeremie",
+            "Fajner,",
+            "Frederik",
+            "Villumsen,",
+            "Claus",
+            "Toksvig",
+            "Kjaer"
+        ],
+        "Runtime": 94
+    },
+    {
+        "movie_name": "The Iron Giant",
+        "url": "https://www.rottentomatoes.com/m/iron_giant",
+        "Rating": [
+            "PG",
+            "(Mild",
+            "Language|Fantasy",
+            "Action)"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Adventure,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " BradBird"
+        ],
+        "Producer": [
+            "Des",
+            "McAnuff,",
+            "Allison",
+            "Abbate"
+        ],
+        "Runtime": 86
+    },
+    {
+        "movie_name": "Tower",
+        "url": "https://www.rottentomatoes.com/m/tower_2016",
+        "Genre": [
+            "Documentary"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " KeithMaitland"
+        ],
+        "Producer": [
+            "Megan",
+            "Gilbride,",
+            "Susan",
+            "Thomson"
+        ],
+        "Runtime": 98
+    },
+    {
+        "movie_name": "Fantasia",
+        "url": "https://www.rottentomatoes.com/m/fantasia",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Fantasy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " JamesAlgar",
+            "SamuelArmstrong",
+            "FordBeebe",
+            "NormanFerguson",
+            "JimHandley",
+            "T.Hee",
+            "WilfredJackson",
+            "HamiltonLuske",
+            "BillRoberts",
+            "PaulSatterfield"
+        ],
+        "Producer": [
+            "Walt",
+            "Disney"
+        ],
+        "Runtime": 120
+    },
+    {
+        "movie_name": "The Lion King",
+        "url": "https://www.rottentomatoes.com/m/the_lion_king",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Musical,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " RogerAllers",
+            "RobMinkoff"
+        ],
+        "Producer": [
+            "Don",
+            "Hahn"
+        ],
+        "Runtime": 87
+    },
+    {
+        "movie_name": "Who Framed Roger Rabbit",
+        "url": "https://www.rottentomatoes.com/m/who_framed_roger_rabbit",
+        "Rating": [
+            "PG"
+        ],
+        "Genre": [
+            "Comedy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " RobertZemeckis"
+        ],
+        "Producer": [
+            "Robert",
+            "Watts,",
+            "Frank",
+            "Marshall"
+        ],
+        "Runtime": 104
+    },
+    {
+        "movie_name": "Waltz With Bashir",
+        "url": "https://www.rottentomatoes.com/m/waltz_with_bashir",
+        "Rating": [
+            "R",
+            "(Dist.",
+            "Images",
+            "of",
+            "Atrocities|Brief",
+            "Nudity|Graphic",
+            "Sexual",
+            "Violence|Strong",
+            "Violence)"
+        ],
+        "Genre": [
+            "Documentary,",
+            "Animation"
+        ],
+        "Language": [
+            "Hebrew"
+        ],
+        "Director": [
+            " AriFolman"
+        ],
+        "Producer": [
+            "Ari",
+            "Folman,",
+            "Serge",
+            "Lalou,",
+            "Gerhard",
+            "Meixner,",
+            "Roman",
+            "Paul"
+        ],
+        "Runtime": 90
+    },
+    {
+        "movie_name": "How to Train Your Dragon: The Hidden World",
+        "url": "https://www.rottentomatoes.com/m/how_to_train_your_dragon_the_hidden_world",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Mild",
+            "Rude",
+            "Humor|Adventure",
+            "Action)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Fantasy,",
+            "Comedy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " DeanDeBlois"
+        ],
+        "Producer": [
+            "Brad",
+            "Lewis,",
+            "Bonnie",
+            "Arnold"
+        ],
+        "Runtime": 104
+    },
+    {
+        "movie_name": "Persepolis",
+        "url": "https://www.rottentomatoes.com/m/persepolis",
+        "Rating": [
+            "PG-13",
+            "(Language|Brief",
+            "Drug",
+            "Content|Mature",
+            "Thematic",
+            "Material|Sexual",
+            "References|Violent",
+            "Images)"
+        ],
+        "Genre": [
+            "Animation,",
+            "Drama"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " VincentParonnaud",
+            "MarjaneSatrapi"
+        ],
+        "Runtime": 95
+    },
+    {
+        "movie_name": "Yellow Submarine",
+        "url": "https://www.rottentomatoes.com/m/beatles_the_yellow_submarine",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Comedy,",
+            "Musical,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " GeorgeDunning"
+        ],
+        "Runtime": 85
+    },
+    {
+        "movie_name": "Wallace & Gromit: The Curse of the Were-Rabbit",
+        "url": "https://www.rottentomatoes.com/m/wallace_and_gromit_curse_of_the_wererabbit",
+        "Director": [
+            " SteveBox"
+        ]
+    },
+    {
+        "movie_name": "Fantastic Mr. Fox",
+        "url": "https://www.rottentomatoes.com/m/1197696-fantastic_mr_fox",
+        "Rating": [
+            "PG",
+            "(Slang",
+            "Humor|Action|Smoking)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " WesAnderson"
+        ],
+        "Producer": [
+            "Wes",
+            "Anderson,",
+            "Scott",
+            "Rudin,",
+            "Allison",
+            "Abbate,",
+            "Jeremy",
+            "Dawson"
+        ],
+        "Runtime": 88
+    },
+    {
+        "movie_name": "Kiki's Delivery Service",
+        "url": "https://www.rottentomatoes.com/m/kikis_delivery_service",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Anime"
+        ],
+        "Language": [
+            "Japanese"
+        ],
+        "Director": [
+            " HayaoMiyazaki"
+        ],
+        "Producer": [
+            "Jane",
+            "Schonberger,",
+            "Hayao",
+            "Miyazaki"
+        ],
+        "Runtime": 103
+    },
+    {
+        "movie_name": "Ernest & C\u00e9lestine",
+        "url": "https://www.rottentomatoes.com/m/ernest_and_celestine",
+        "Director": [
+            " VincentPatar"
+        ]
+    },
+    {
+        "movie_name": "Aladdin",
+        "url": "https://www.rottentomatoes.com/m/disneys_aladdin",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Musical,",
+            "Fantasy,",
+            "Comedy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " RonClements",
+            "JohnMusker"
+        ],
+        "Producer": [
+            "Ron",
+            "Clements,",
+            "John",
+            "Musker"
+        ],
+        "Runtime": 90
+    },
+    {
+        "movie_name": "The Secret World of Arrietty",
+        "url": "https://www.rottentomatoes.com/m/the_secret_world_of_arrietty",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Adventure,",
+            "Anime"
+        ],
+        "Language": [
+            "Japanese"
+        ],
+        "Director": [
+            " HiromasaYonebayashi",
+            "GaryRydstrom"
+        ],
+        "Producer": [
+            "Toshio",
+            "Suzuki"
+        ],
+        "Runtime": 95
+    },
+    {
+        "movie_name": "Frozen",
+        "url": "https://www.rottentomatoes.com/m/frozen_2013",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Action|Mild",
+            "Rude",
+            "Humor)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Musical,",
+            "Fantasy,",
+            "Comedy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " ChrisBuck",
+            "JenniferLee"
+        ],
+        "Producer": [
+            "Peter",
+            "Del",
+            "Vecho"
+        ],
+        "Runtime": 102
+    },
+    {
+        "movie_name": "The Red Turtle",
+        "url": "https://www.rottentomatoes.com/m/the_red_turtle",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Thematic",
+            "Elements|Peril)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Animation"
+        ],
+        "Language": [
+            "language"
+        ],
+        "Director": [
+            " MichaelDudokdeWit"
+        ],
+        "Producer": [
+            "Val\u00e9rie",
+            "Schermann,",
+            "Christophe",
+            "Jankovic"
+        ],
+        "Runtime": 80
+    },
+    {
+        "movie_name": "Ralph Breaks the Internet",
+        "url": "https://www.rottentomatoes.com/m/ralph_breaks_the_internet",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Action",
+            "and",
+            "Rude",
+            "Humor)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " PhilJohnston",
+            "RichMoore"
+        ],
+        "Producer": [
+            "Clark",
+            "Spencer"
+        ],
+        "Runtime": 112
+    },
+    {
+        "movie_name": "Long Way North",
+        "url": "https://www.rottentomatoes.com/m/long_way_north",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Peril|Mild",
+            "Language)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Animation,",
+            "Drama"
+        ],
+        "Language": [
+            "(France)"
+        ],
+        "Director": [
+            " R\u00e9miChay\u00e9"
+        ],
+        "Producer": [
+            "Ron",
+            "Dyens,",
+            "Henri",
+            "Magalon"
+        ],
+        "Runtime": 81
+    },
+    {
+        "movie_name": "Big Hero 6",
+        "url": "https://www.rottentomatoes.com/m/big_hero_6",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Rude",
+            "Humor|Action",
+            "and",
+            "Peril|Thematic",
+            "Elements)"
+        ],
+        "Genre": [
+            "Comedy,",
+            "Adventure,",
+            "Action,",
+            "Kids",
+            "&",
+            "family,",
+            "Sci-fi,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " DonHall",
+            "ChrisWilliams"
+        ],
+        "Producer": [
+            "Roy",
+            "Conli"
+        ],
+        "Runtime": 102
+    },
+    {
+        "movie_name": "Coraline",
+        "url": "https://www.rottentomatoes.com/m/coraline",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Language|Suggestive",
+            "Humor|Scary",
+            "Images|Thematic",
+            "Elements)"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " HenrySelick"
+        ],
+        "Producer": [
+            "Bill",
+            "Mechanic,",
+            "Claire",
+            "Jennings,",
+            "Henry",
+            "Selick,",
+            "Mary",
+            "Sandell"
+        ],
+        "Runtime": 100
+    },
+    {
+        "movie_name": "Ghost in the Shell",
+        "url": "https://www.rottentomatoes.com/m/ghost_in_the_shell",
+        "Genre": [
+            "Action,",
+            "Anime,",
+            "Sci-fi"
+        ],
+        "Language": [
+            "Japanese"
+        ],
+        "Director": [
+            " MamoruOshii"
+        ],
+        "Producer": [
+            "Mitsuhisa",
+            "Ishikawa,",
+            "Ken",
+            "Iyadomi,",
+            "Ken",
+            "Matsumoto,",
+            "Yoshimasa",
+            "Mizuo"
+        ],
+        "Runtime": 85
+    },
+    {
+        "movie_name": "I Lost My Body",
+        "url": "https://www.rottentomatoes.com/m/i_lost_my_body",
+        "Genre": [
+            "Fantasy,",
+            "Animation,",
+            "Drama"
+        ],
+        "Language": [
+            "(France)"
+        ],
+        "Director": [
+            " J\u00e9r\u00e9myClapin"
+        ],
+        "Producer": [
+            "Marc",
+            "du",
+            "Pontavice,",
+            "Camille",
+            "Wiplier,",
+            "Lucie",
+            "Bolze"
+        ],
+        "Runtime": 81
+    },
+    {
+        "movie_name": "The Breadwinner",
+        "url": "https://www.rottentomatoes.com/m/the_breadwinner",
+        "Rating": [
+            "PG-13",
+            "(Thematic",
+            "Material|Some",
+            "Violent",
+            "Images)"
+        ],
+        "Genre": [
+            "Animation,",
+            "Drama"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " NoraTwomey"
+        ],
+        "Producer": [
+            "Angelina",
+            "Jolie,",
+            "Anthony",
+            "Leo,",
+            "Tomm",
+            "Moore,",
+            "Andrew",
+            "Rosen,",
+            "Paul",
+            "Young"
+        ],
+        "Runtime": 94
+    },
+    {
+        "movie_name": "A Shaun the Sheep Movie: Farmageddon",
+        "url": "https://www.rottentomatoes.com/m/a_shaun_the_sheep_movie_farmageddon",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Sci-fi,",
+            "Comedy"
+        ],
+        "Language": [
+            "Kingdom)"
+        ],
+        "Director": [
+            " RichardPhelan",
+            "WillBecher"
+        ],
+        "Producer": [
+            "Paul",
+            "Kewley"
+        ],
+        "Runtime": 87
+    },
+    {
+        "movie_name": "The Little Mermaid",
+        "url": "https://www.rottentomatoes.com/m/the_little_mermaid_1989",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " RonClements",
+            "JohnMusker"
+        ],
+        "Producer": [
+            "Howard",
+            "Ashman,",
+            "John",
+            "Musker"
+        ],
+        "Runtime": 82
+    },
+    {
+        "movie_name": "How to Train Your Dragon 2",
+        "url": "https://www.rottentomatoes.com/m/how_to_train_your_dragon_2",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Mild",
+            "Rude",
+            "Humor|Adventure",
+            "Action)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Fantasy,",
+            "Comedy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " DeanDeBlois",
+            "TomOwens"
+        ],
+        "Producer": [
+            "Bonnie",
+            "Arnold"
+        ],
+        "Runtime": 102
+    },
+    {
+        "movie_name": "The Triplets of Belleville",
+        "url": "https://www.rottentomatoes.com/m/the_triplets_of_belleville",
+        "Rating": [
+            "PG-13",
+            "(Violence|Sensuality|Crude",
+            "Humor)"
+        ],
+        "Genre": [
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "(Canada)"
+        ],
+        "Director": [
+            " SylvainChomet"
+        ],
+        "Producer": [
+            "Didier",
+            "Brunner"
+        ],
+        "Runtime": 82
+    },
+    {
+        "movie_name": "Lady and the Tramp",
+        "url": "https://www.rottentomatoes.com/m/lady_and_the_tramp",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " ClydeGeronimi",
+            "WilfredJackson",
+            "HamiltonLuske"
+        ],
+        "Producer": [
+            "Walt",
+            "Disney"
+        ],
+        "Runtime": 75
+    },
+    {
+        "movie_name": "Princess Mononoke",
+        "url": "https://www.rottentomatoes.com/m/princess_mononoke_1999",
+        "Rating": [
+            "PG-13",
+            "(Images",
+            "of",
+            "Violence",
+            "and",
+            "Gore)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Fantasy,",
+            "Anime"
+        ],
+        "Language": [
+            "Japanese"
+        ],
+        "Director": [
+            " HayaoMiyazaki"
+        ],
+        "Producer": [
+            "Toshio",
+            "Suzuki"
+        ],
+        "Runtime": 133
+    },
+    {
+        "movie_name": "My Neighbor Totoro",
+        "url": "https://www.rottentomatoes.com/m/my_neighbor_totoro",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Anime"
+        ],
+        "Language": [
+            "Japanese"
+        ],
+        "Director": [
+            " HayaoMiyazaki"
+        ],
+        "Runtime": 87
+    },
+    {
+        "movie_name": "Bambi",
+        "url": "https://www.rottentomatoes.com/m/bambi",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " DavidHand"
+        ],
+        "Producer": [
+            "Walt",
+            "Disney"
+        ],
+        "Runtime": 70
+    },
+    {
+        "movie_name": "Arthur Christmas",
+        "url": "https://www.rottentomatoes.com/m/arthur_christmas",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Mild",
+            "Rude",
+            "Humor)"
+        ],
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Other,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " SarahSmith"
+        ],
+        "Producer": [
+            "Peter",
+            "Lord,",
+            "David",
+            "Sproxton,",
+            "Carla",
+            "Shelley,",
+            "Steve",
+            "Pegram"
+        ],
+        "Runtime": 100
+    },
+    {
+        "movie_name": "Antz",
+        "url": "https://www.rottentomatoes.com/m/antz",
+        "Rating": [
+            "PG",
+            "(Mild",
+            "Language|Menacing",
+            "Action)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Fantasy,",
+            "Comedy,",
+            "Romance"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " EricDarnell",
+            "TimJohnson"
+        ],
+        "Producer": [
+            "Brad",
+            "Lewis,",
+            "Aron",
+            "Warner,",
+            "Patty",
+            "Wooton"
+        ],
+        "Runtime": 87
+    },
+    {
+        "movie_name": "The LEGO Movie 2: The Second Part",
+        "url": "https://www.rottentomatoes.com/m/the_lego_movie_2_the_second_part",
+        "Rating": [
+            "PG",
+            "(Mild",
+            "Action",
+            "and",
+            "Rude",
+            "Humor)"
+        ],
+        "Genre": [
+            "Comedy,",
+            "Adventure,",
+            "Action,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " MikeMitchell"
+        ],
+        "Producer": [
+            "Dan",
+            "Lin,",
+            "Phil",
+            "Lord,",
+            "Chris",
+            "Miller,",
+            "Roy",
+            "Lee,",
+            "Jinko",
+            "Gotoh"
+        ],
+        "Runtime": 107
+    },
+    {
+        "movie_name": "A Bug's Life",
+        "url": "https://www.rottentomatoes.com/m/bugs_life",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Adventure,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " JohnLasseter",
+            "AndrewStanton"
+        ],
+        "Producer": [
+            "Darla",
+            "K.",
+            "Anderson,",
+            "Kevin",
+            "Reher"
+        ],
+        "Runtime": 96
+    },
+    {
+        "movie_name": "Mary and Max",
+        "url": "https://www.rottentomatoes.com/m/1209767-mary_and_max",
+        "Genre": [
+            "Comedy,",
+            "Animation,",
+            "Drama"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " AdamElliot"
+        ],
+        "Producer": [
+            "Melanie",
+            "Coombs"
+        ],
+        "Runtime": 92
+    },
+    {
+        "movie_name": "Ponyo",
+        "url": "https://www.rottentomatoes.com/m/ponyo",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Fantasy,",
+            "Anime"
+        ],
+        "Language": [
+            "Japanese"
+        ],
+        "Director": [
+            " HayaoMiyazaki"
+        ],
+        "Producer": [
+            "Toshio",
+            "Suzuki"
+        ],
+        "Runtime": 100
+    },
+    {
+        "movie_name": "Klaus",
+        "url": "https://www.rottentomatoes.com/m/klaus",
+        "Rating": [
+            "PG",
+            "(Rude",
+            "Humor",
+            "and",
+            "Mild",
+            "Action)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Comedy,",
+            "Other"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " SergioPablos"
+        ],
+        "Producer": [
+            "Jinko",
+            "Gotoh,",
+            "Sergio",
+            "Pablos,",
+            "Matthew",
+            "Teevan,",
+            "Mercedes",
+            "Gamero,",
+            "Mikel",
+            "Lejarza,",
+            "Gustavo",
+            "Ferrada"
+        ],
+        "Runtime": 98
+    },
+    {
+        "movie_name": "Teen Titans GO! to the Movies",
+        "url": "https://www.rottentomatoes.com/m/teen_titans_go_to_the_movies",
+        "Rating": [
+            "PG",
+            "(Action",
+            "and",
+            "Rude",
+            "Humor)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Comedy,",
+            "Action"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " PeterRidaMichail",
+            "AaronHorvath"
+        ],
+        "Producer": [
+            "Aaron",
+            "Horvath,",
+            "Michael",
+            "Jelenic,",
+            "Peggy",
+            "Regan,",
+            "Peter",
+            "Rida",
+            "Michail,",
+            "Will",
+            "Arnett"
+        ],
+        "Runtime": 87
+    },
+    {
+        "movie_name": "Bolt",
+        "url": "https://www.rottentomatoes.com/m/bolt",
+        "Rating": [
+            "PG",
+            "(Peril|Mild",
+            "Action)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " ChrisWilliams",
+            "ByronHoward"
+        ],
+        "Producer": [
+            "Clark",
+            "Spencer"
+        ],
+        "Runtime": 96
+    },
+    {
+        "movie_name": "Tangled",
+        "url": "https://www.rottentomatoes.com/m/tangled",
+        "Rating": [
+            "PG",
+            "(Brief",
+            "Mild",
+            "Violence)"
+        ],
+        "Genre": [
+            "Comedy,",
+            "Musical,",
+            "Adventure,",
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " NathanGreno",
+            "ByronHoward"
+        ],
+        "Producer": [
+            "Roy",
+            "Conli"
+        ],
+        "Runtime": 101
+    },
+    {
+        "movie_name": "Shrek 2",
+        "url": "https://www.rottentomatoes.com/m/shrek_2",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Crude",
+            "Humor|A",
+            "Brief",
+            "Substance",
+            "Reference|Some",
+            "Suggestive",
+            "Content)"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " AndrewAdamson",
+            "KellyAsbury",
+            "ConradVernon"
+        ],
+        "Producer": [
+            "Jeffrey",
+            "Katzenberg,",
+            "Aron",
+            "Warner,",
+            "David",
+            "Lipman,",
+            "John",
+            "H.",
+            "Williams"
+        ],
+        "Runtime": 92
+    },
+    {
+        "movie_name": "ParaNorman",
+        "url": "https://www.rottentomatoes.com/m/paranorman",
+        "Rating": [
+            "PG",
+            "(Scary",
+            "Action|Language|Scary",
+            "Images|Some",
+            "Rude",
+            "Humor|Thematic",
+            "Elements)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Fantasy,",
+            "Comedy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " ChrisButler",
+            "SamFell"
+        ],
+        "Producer": [
+            "Arianne",
+            "Sutner,",
+            "Travis",
+            "Knight"
+        ],
+        "Runtime": 96
+    },
+    {
+        "movie_name": "Frankenweenie",
+        "url": "https://www.rottentomatoes.com/m/frankenweenie_2012",
+        "Rating": [
+            "PG",
+            "(Scary",
+            "Images|Action|Thematic",
+            "Elements)"
+        ],
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " TimBurton"
+        ],
+        "Producer": [
+            "Tim",
+            "Burton,",
+            "Allison",
+            "Abbate"
+        ],
+        "Runtime": 87
+    },
+    {
+        "movie_name": "Shrek",
+        "url": "https://www.rottentomatoes.com/m/shrek",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Crude",
+            "Humor|Mild",
+            "Language)"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " AndrewAdamson",
+            "VickyJenson"
+        ],
+        "Producer": [
+            "Aron",
+            "Warner,",
+            "John",
+            "H.",
+            "Williams,",
+            "Jeffrey",
+            "Katzenberg"
+        ],
+        "Runtime": 89
+    },
+    {
+        "movie_name": "James and the Giant Peach",
+        "url": "https://www.rottentomatoes.com/m/james_and_the_giant_peach",
+        "Rating": [
+            "PG"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " HenrySelick"
+        ],
+        "Producer": [
+            "Tim",
+            "Burton,",
+            "Denise",
+            "Di",
+            "Novi"
+        ],
+        "Runtime": 80
+    },
+    {
+        "movie_name": "Rango",
+        "url": "https://www.rottentomatoes.com/m/rango",
+        "Rating": [
+            "PG",
+            "(Language|Action|Rude",
+            "Humor|Smoking)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " GoreVerbinski"
+        ],
+        "Producer": [
+            "Gore",
+            "Verbinski,",
+            "Graham",
+            "King,",
+            "John",
+            "B.",
+            "Carls"
+        ],
+        "Runtime": 105
+    },
+    {
+        "movie_name": "The Wind Rises",
+        "url": "https://www.rottentomatoes.com/m/the_wind_rises",
+        "Rating": [
+            "PG-13",
+            "(Some",
+            "Disturbing",
+            "Images|Smoking)"
+        ],
+        "Genre": [
+            "History,",
+            "Biography,",
+            "Anime,",
+            "Drama"
+        ],
+        "Language": [
+            "Japanese"
+        ],
+        "Director": [
+            " HayaoMiyazaki",
+            "GaryRydstrom"
+        ],
+        "Producer": [
+            "Toshio",
+            "Suzuki"
+        ],
+        "Runtime": 126
+    },
+    {
+        "movie_name": "Missing Link",
+        "url": "https://www.rottentomatoes.com/m/missing_link_2019",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Mild",
+            "Rude",
+            "Humor|Action/Peril)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " ChrisButler"
+        ],
+        "Producer": [
+            "Arianne",
+            "Sutner,",
+            "Travis",
+            "Knight"
+        ],
+        "Runtime": 94
+    },
+    {
+        "movie_name": "The Simpsons Movie",
+        "url": "https://www.rottentomatoes.com/m/simpsons_movie",
+        "Rating": [
+            "PG-13",
+            "(Irreverent",
+            "Humor",
+            "Throughout)"
+        ],
+        "Genre": [
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " DavidSilverman"
+        ],
+        "Producer": [
+            "James",
+            "L.",
+            "Brooks,",
+            "Matt",
+            "Groening,",
+            "Al",
+            "Jean,",
+            "Mike",
+            "Scully,",
+            "Richard",
+            "Sakai"
+        ],
+        "Runtime": 86
+    },
+    {
+        "movie_name": "Boy and the World",
+        "url": "https://www.rottentomatoes.com/m/boy_and_the_world",
+        "Rating": [
+            "PG",
+            "(Thematic",
+            "Material",
+            "and",
+            "Images)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "(Brazil)"
+        ],
+        "Director": [
+            " Al\u00eaAbreu"
+        ],
+        "Producer": [
+            "Fernanda",
+            "Carvalho,",
+            "Tita",
+            "Tessler"
+        ],
+        "Runtime": 80
+    },
+    {
+        "movie_name": "The Peanuts Movie",
+        "url": "https://www.rottentomatoes.com/m/the_peanuts_movie",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " SteveMartino"
+        ],
+        "Producer": [
+            "Craig",
+            "Schulz,",
+            "Bryan",
+            "Schulz,",
+            "Cornelius",
+            "Uliano,",
+            "Paul",
+            "Feig,",
+            "Michael",
+            "J.",
+            "Travers"
+        ],
+        "Runtime": 89
+    },
+    {
+        "movie_name": "Millennium Actress",
+        "url": "https://www.rottentomatoes.com/m/millennium_actress_2001",
+        "Rating": [
+            "PG",
+            "(Brief",
+            "Mild",
+            "Language|Violence|Thematic",
+            "Elements)"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Anime,",
+            "Drama"
+        ],
+        "Language": [
+            "Japanese"
+        ],
+        "Director": [
+            " SatoshiKon"
+        ],
+        "Producer": [
+            "Taro",
+            "Maki"
+        ],
+        "Runtime": 87
+    },
+    {
+        "movie_name": "When Marnie Was There",
+        "url": "https://www.rottentomatoes.com/m/when_marnie_was_there",
+        "Rating": [
+            "PG",
+            "(Thematic",
+            "Elements|Smoking)"
+        ],
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Mystery",
+            "&",
+            "thriller,",
+            "Anime,",
+            "Drama,",
+            "Fantasy"
+        ],
+        "Language": [
+            "Japanese"
+        ],
+        "Director": [
+            " HiromasaYonebayashi"
+        ],
+        "Producer": [
+            "Yoshiaki",
+            "Nishimura,",
+            "Koji",
+            "Hoshino"
+        ],
+        "Runtime": 103
+    },
+    {
+        "movie_name": "Kung Fu Panda",
+        "url": "https://www.rottentomatoes.com/m/kung_fu_panda",
+        "Rating": [
+            "PG",
+            "(Martial",
+            "Arts",
+            "Action)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " JohnStevenson",
+            "MarkOsborne"
+        ],
+        "Producer": [
+            "Melissa",
+            "Cobb"
+        ],
+        "Runtime": 91
+    },
+    {
+        "movie_name": "Sleeping Beauty",
+        "url": "https://www.rottentomatoes.com/m/1019187-sleeping_beauty",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Fantasy,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " ClydeGeronimi"
+        ],
+        "Producer": [
+            "Walt",
+            "Disney"
+        ],
+        "Runtime": 75
+    },
+    {
+        "movie_name": "Wreck-It Ralph",
+        "url": "https://www.rottentomatoes.com/m/wreck_it_ralph",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Rude",
+            "Humor|Mild",
+            "Action/Violence)"
+        ],
+        "Genre": [
+            "Comedy,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Adventure"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " RichMoore"
+        ],
+        "Producer": [
+            "Clark",
+            "Spencer"
+        ],
+        "Runtime": 101
+    },
+    {
+        "movie_name": "Winnie the Pooh",
+        "url": "https://www.rottentomatoes.com/m/winnie_the_pooh_2011",
+        "Rating": [
+            "G"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " StephenJ.Anderson",
+            "DonHall"
+        ],
+        "Producer": [
+            "Peter",
+            "Del",
+            "Vecho"
+        ],
+        "Runtime": 69
+    },
+    {
+        "movie_name": "The Illusionist",
+        "url": "https://www.rottentomatoes.com/m/the_illusionist-2009",
+        "Rating": [
+            "PG",
+            "(Thematic",
+            "Elements|Smoking)"
+        ],
+        "Genre": [
+            "Animation,",
+            "Drama"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " SylvainChomet"
+        ],
+        "Producer": [
+            "Sally",
+            "Chomet,",
+            "Bob",
+            "Last"
+        ],
+        "Runtime": 90
+    },
+    {
+        "movie_name": "Kung Fu Panda 3",
+        "url": "https://www.rottentomatoes.com/m/kung_fu_panda_3",
+        "Rating": [
+            "PG",
+            "(Some",
+            "Mild",
+            "Rude",
+            "Humor|Martial",
+            "Arts",
+            "Action)"
+        ],
+        "Genre": [
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " JenniferYuhNelson",
+            "AlessandroCarloni"
+        ],
+        "Producer": [
+            "Melissa",
+            "Cobb"
+        ],
+        "Runtime": 95
+    }
+]
